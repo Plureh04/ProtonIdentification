@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="services">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/coatjava-10.0.9/coatjava/lib/services" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/coatjava-10.0.9/coatjava/lib/services" recursive="false" />
+  </library>
+</component>
