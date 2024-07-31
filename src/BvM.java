@@ -132,9 +132,9 @@ public class BvM {
              * e = Euler's number = 2.71828
              */
             ec.draw(BvM);
-            ec.save("/home/reh1/Pictures/BvM_graph.png");
+            ec.save("/home/youruserdirectory/Pictures/BvM_graph.png");
             ec2.draw(DBvM);
-            ec2.save("/home/reh1/Pictures/DBvM_graph.png");
+            ec2.save("/home/youruserdirectory/Pictures/DBvM_graph.png");
 
             // Assuming the projectY method exists and works as described
             H1F projectionY = DBvM.projectionY();
@@ -169,7 +169,7 @@ public class BvM {
 // draw the sliced histograms with each fit.
             fitter.getInspectFitsPane();
             fitter.inspectFits();
-            can.save("/home/reh1/Pictures/Can_graph.png");
+            can.save("/home/youruserdirectory/Pictures/Can_graph.png");
            // fitter.save("/home/reh1/Pictures/Fitter_graph.png");
 
 
