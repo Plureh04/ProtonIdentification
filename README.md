@@ -6,6 +6,7 @@ To import a jar file :
  - Go to modules and select dependencies to your right
  - Add a file by clicking on the + and go to coatjava's library and the clas where your jar file is.
  - The jar files should be something similar to as a coat-libs-SNAPSHOT.jar, JClara, and clas12detector-ec.
+
 To import a library :
  - Head to the main menu
  - Go to libaries and click on +
