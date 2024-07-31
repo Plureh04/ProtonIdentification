@@ -1,6 +1,7 @@
 This code is written in Intellij IDE but can be ran through the terminal that runs coatjava.
 To run this in coatjava, must remove the public class and public static void, it will not run with this in.
 To the run this code in Intellij IDE, first import the library and the jar file into your project.
+
 To import a jar file : 
  - Head to the main menu
  - Go to modules and select dependencies to your right
