@@ -14,10 +14,10 @@ public class BvM {
 
         HipoChain reader = new HipoChain();
 
-        reader.addFile("/home/reh1/Downloads/rec_clas_020508.evio.00040.hipo");
-        reader.addFile("/home/reh1/Downloads/rec_clas_020508.evio.00041.hipo");
-        reader.addFile("/home/reh1/Downloads/rec_clas_020508.evio.00042.hipo");
-        reader.addFile("/home/reh1/Downloads/rec_clas_020508.evio.00043.hipo");
+        reader.addFile("/home/userdirectory/Downloads/rec_clas_020508.evio.00040.hipo");
+        reader.addFile("/home/userdirectory/Downloads/rec_clas_020508.evio.00041.hipo");
+        reader.addFile("/home/userdirectory/Downloads/rec_clas_020508.evio.00042.hipo");
+        reader.addFile("/home/userdirectory/Downloads/rec_clas_020508.evio.00043.hipo");
         reader.open();
         Event event = new Event();
         Bank particles = new Bank(reader.getSchemaFactory().getSchema("REC::Particle"));
