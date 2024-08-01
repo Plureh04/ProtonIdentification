@@ -17,6 +17,6 @@ To import a library :
 
 To run the code on the IDE, either press shift and F10 or the play button on top next to the bug.
 When jar files and library are added properly, import statements will work properly.
-Simply copy the code to run a test. Note : Terminal will produce some errors but will run properly
+Simply copy the code to run a test. Note : Terminal will produce some errors but will run properly.
 To save a picture of the graphs, simply add your user directory to methods of "save" and it will save to your picture folder.
 Ensure all paths in the code are correct and accessible from your system. Adjust paths if necessary.
